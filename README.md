@@ -15,5 +15,5 @@ Que a receita média é de **R$ 1.754** e que o valor do total dos cupons foi de
 
 Para que consigam visualizar melhor o que eu estou dizendo, deixo abaixo o Dashboard criado.
 
-![]()
+![](https://github.com/mariaefoliveira/Dashboard-em-excel-analise-de-vendas/blob/main/Images/Dashboard.png?raw=true)
 
